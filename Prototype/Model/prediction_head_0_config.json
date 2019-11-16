@@ -1,0 +1,1 @@
+{"training": true, "layer_dims": [768, 7], "num_labels": 7, "ph_output_type": "per_token", "model_type": "token_classification", "task_name": "ner", "name": "TokenClassificationHead"}
